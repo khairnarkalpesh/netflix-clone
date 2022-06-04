@@ -9,7 +9,6 @@ function Login() {
             <div className="wrapper">
                 <img className='logo' src={logo} alt="" />
             </div>
-
         </div>
 
         <div className="container">
